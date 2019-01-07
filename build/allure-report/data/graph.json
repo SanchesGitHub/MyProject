@@ -1,0 +1,25 @@
+{
+  "testCases" : [ {
+    "uid" : "2db92023afa9c07f",
+    "name" : "openBrowserTest",
+    "title" : "Open browser test",
+    "time" : {
+      "start" : 1546878906012,
+      "stop" : 1546878912211,
+      "duration" : 6199
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d865a3659b76c1",
+    "name" : "openDriverTest",
+    "title" : "Open driver test",
+    "time" : {
+      "start" : 1546878912217,
+      "stop" : 1546878912224,
+      "duration" : 7
+    },
+    "severity" : "NORMAL",
+    "status" : "BROKEN"
+  } ]
+}

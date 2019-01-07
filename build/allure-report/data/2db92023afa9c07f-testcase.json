@@ -1,0 +1,47 @@
+{
+  "uid" : "2db92023afa9c07f",
+  "name" : "openBrowserTest",
+  "title" : "Open browser test",
+  "time" : {
+    "start" : 1546878906012,
+    "stop" : 1546878912211,
+    "duration" : 6199
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "c6b1a52d079bcb40",
+    "name" : "Gradle suite : Gradle test",
+    "title" : "Gradle suite : Gradle test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Gradle suite : Gradle test"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "thread",
+    "value" : "8260@Alexandr-PC.Test worker(12)"
+  }, {
+    "name" : "host",
+    "value" : "Alexandr-PC"
+  }, {
+    "name" : "suite-title",
+    "value" : "Gradle suite : Gradle test"
+  } ],
+  "parameters" : [ ]
+}

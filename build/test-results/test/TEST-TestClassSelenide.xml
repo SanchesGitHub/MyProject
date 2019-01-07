@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestClassSelenide" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-01-07T16:35:05" hostname="Alexandr-PC" time="6.335">
+  <properties/>
+  <testcase name="openBrowserTest" classname="TestClassSelenide" time="6.335"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[янв 07, 2019 7:35:06 PM com.codeborne.selenide.drivercommands.LazyDriver getAndCheckWebDriver
+INFO: No webdriver is bound to current thread: 12 - let's create a new webdriver
+янв 07, 2019 7:35:06 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Starting ChromeDriver 72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb) on port 39129
+Only local connections are allowed.
+янв 07, 2019 7:35:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+янв 07, 2019 7:35:09 PM com.codeborne.selenide.webdriver.BrowserResizer adjustBrowserSize
+INFO: Set browser size to 1366x768
+янв 07, 2019 7:35:10 PM com.codeborne.selenide.webdriver.WebDriverFactory logBrowserVersion
+INFO: BrowserName=chrome Version=71.0.3578.98 Platform=XP
+янв 07, 2019 7:35:10 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
+INFO: Selenide v. 5.1.0
+янв 07, 2019 7:35:10 PM com.codeborne.selenide.webdriver.WebDriverFactory logSeleniumInfo
+INFO: Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+янв 07, 2019 7:35:10 PM com.codeborne.selenide.drivercommands.CreateDriverCommand createDriver
+INFO: Create webdriver in current thread 12: ChromeDriver -> ChromeDriver: chrome on XP (2a23e96f4705445442a3636bbfabf8f6)
+]]></system-err>
+</testsuite>
