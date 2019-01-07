@@ -4,39 +4,34 @@
     "total" : {
       "statistic" : {
         "total" : 2,
-        "passed" : 1,
+        "passed" : 2,
         "pending" : 0,
         "canceled" : 0,
         "failed" : 0,
-        "broken" : 1
+        "broken" : 0
       },
       "time" : {
-        "start" : 1546878906012,
-        "stop" : 1546878912224,
-        "duration" : 6212
+        "start" : 1546895714206,
+        "stop" : 1546895750721,
+        "duration" : 36515
       }
     },
     "defects" : {
-      "totalCount" : 1,
-      "items" : [ {
-        "count" : 1,
-        "uid" : "c2dbefdb7637cdaf",
-        "message" : "NullPointerException: null",
-        "status" : "BROKEN"
-      } ]
+      "totalCount" : 0,
+      "items" : [ ]
     },
     "xunit" : {
       "totalCount" : 1,
       "items" : [ {
-        "uid" : "c6b1a52d079bcb40",
+        "uid" : "3dc107f5837e940f",
         "title" : "Gradle suite : Gradle test",
         "statistic" : {
           "total" : 2,
-          "passed" : 1,
+          "passed" : 2,
           "pending" : 0,
           "canceled" : 0,
           "failed" : 0,
-          "broken" : 1
+          "broken" : 0
         }
       } ]
     },
@@ -46,11 +41,11 @@
         "title" : "Without feature",
         "statistic" : {
           "total" : 2,
-          "passed" : 1,
+          "passed" : 2,
           "pending" : 0,
           "canceled" : 0,
           "failed" : 0,
-          "broken" : 1
+          "broken" : 0
         }
       } ]
     },

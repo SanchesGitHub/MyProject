@@ -7,7 +7,7 @@ import static com.codeborne.selenide.Selenide.open;
 public class TestClassSelenide {
 
     @Test(groups = "regression")
-    public void openBrowserTest() throws Exception {
+    public void openBrowserTest() {
         open("https://yandex.ru/");
         $x(".//div[@class='home-logo__default']").shouldBe(Condition.visible);
     }

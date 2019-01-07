@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1546894628519" stop="1546894632610" version="1.4.24.RC2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : MyProject</name>
+    <title>Default Suite : MyProject</title>
+    <test-cases>
+        <test-case start="1546894631338" stop="1546894631869" status="passed">
+            <name>openDriverTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Alexandr-PC"/>
+                <label name="thread" value="6752@Alexandr-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

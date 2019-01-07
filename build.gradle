@@ -39,7 +39,7 @@ allure {
 
 test{
     useTestNG(){
-        includeGroups 'smoke', 'regression'
+        includeGroups 'smoke','regression'
     }
 
     testLogging {

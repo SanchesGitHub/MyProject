@@ -1,49 +1,49 @@
 {
   "time" : {
-    "start" : 1546878906012,
-    "stop" : 1546878912224,
-    "duration" : 6212
+    "start" : 1546895714206,
+    "stop" : 1546895750721,
+    "duration" : 36515
   },
   "testSuites" : [ {
-    "uid" : "c6b1a52d079bcb40",
+    "uid" : "3dc107f5837e940f",
     "name" : "Gradle suite : Gradle test",
     "title" : "Gradle suite : Gradle test",
     "time" : {
-      "start" : 1546878906012,
-      "stop" : 1546878912224,
-      "duration" : 6212
+      "start" : 1546895714206,
+      "stop" : 1546895750721,
+      "duration" : 36515
     },
     "statistic" : {
       "total" : 2,
-      "passed" : 1,
+      "passed" : 2,
       "pending" : 0,
       "canceled" : 0,
       "failed" : 0,
-      "broken" : 1
+      "broken" : 0
     },
     "description" : null,
     "testCases" : [ {
-      "uid" : "2db92023afa9c07f",
+      "uid" : "41c4bac1f141e74c",
       "name" : "openBrowserTest",
       "title" : "Open browser test",
       "time" : {
-        "start" : 1546878906012,
-        "stop" : 1546878912211,
-        "duration" : 6199
+        "start" : 1546895714206,
+        "stop" : 1546895750258,
+        "duration" : 36052
       },
       "severity" : "NORMAL",
       "status" : "PASSED"
     }, {
-      "uid" : "d865a3659b76c1",
+      "uid" : "435ce9a4909ee035",
       "name" : "openDriverTest",
       "title" : "Open driver test",
       "time" : {
-        "start" : 1546878912217,
-        "stop" : 1546878912224,
-        "duration" : 7
+        "start" : 1546895750265,
+        "stop" : 1546895750721,
+        "duration" : 456
       },
       "severity" : "NORMAL",
-      "status" : "BROKEN"
+      "status" : "PASSED"
     } ]
   } ]
 }

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1546895714015" stop="1546895750725" version="1.4.24.RC2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Gradle suite : Gradle test</name>
+    <title>Gradle suite : Gradle test</title>
+    <test-cases>
+        <test-case start="1546895714206" stop="1546895750258" status="passed">
+            <name>openBrowserTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Alexandr-PC"/>
+                <label name="thread" value="4864@Alexandr-PC.Test worker(12)"/>
+            </labels>
+        </test-case>
+        <test-case start="1546895750265" stop="1546895750721" status="passed">
+            <name>openDriverTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Alexandr-PC"/>
+                <label name="thread" value="4864@Alexandr-PC.Test worker(12)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
